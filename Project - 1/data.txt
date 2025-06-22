@@ -1,0 +1,5 @@
+name : darshna choudhary 
+phone_no: 7340393608
+email : darshna@gmail.com
+skills : java, python, jdbc , backend   
+experience : 1 month web dev internship
