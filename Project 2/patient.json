@@ -1,0 +1,42 @@
+{
+  "P1001": {
+    "Name": "Riya Sen",
+    "Age": 27,
+    "Gender": "F",
+    "Vitals": {
+      "Temperature": 98.6,
+      "BP": "120/80",
+      "Heart_Rate": 80
+    }
+  },
+  "P1002": {
+    "Name": "Divya Jain",
+    "Age": 67,
+    "Gender": "F",
+    "Vitals": {
+      "Temperature": "78.4",
+      "BP": "130/40",
+      "Heart_Rate": "87"
+    }
+  },
+  "P1003": {
+    "Name": "Aarush Maheshwari",
+    "Age": 56,
+    "Gender": "",
+    "Vitals": {
+      "Temperature": "75",
+      "BP": "120/30",
+      "Heart_Rate": "67"
+    }
+  },
+  "P1004": {
+    "Name": "Dev Rathore",
+    "Age": 45,
+    "Gender": "M",
+    "Vitals": {
+      "Temperature": 78.5,
+      "BP": "145/90",
+      "Heart_Rate": 73
+    }
+  }
+}
