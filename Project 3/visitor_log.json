@@ -1,0 +1,48 @@
+{
+    "T194046": {
+        "ticket": [
+            {
+                "Name": "Darshna Choudhary",
+                "Type": "vip",
+                "Time": "2025-07-18 19:40:46"
+            }
+        ],
+        "rides_joined": [
+            "Roller Coaster",
+            "Water Slide"
+        ],
+        "attraction_visited": []
+    },
+    "T194106": {
+        "ticket": [
+            {
+                "Name": "Aditya Sharma",
+                "Type": "regular",
+                "Time": "2025-07-18 19:41:06"
+            }
+        ],
+        "rides_joined": [
+            "Roller Coaster",
+            "Water Slide"
+        ],
+        "attraction_visited": [
+            {
+                "Attraction_name": "Haunted House",
+                "Time": "19:44:10"
+            }
+        ]
+    },
+    "T194133": {
+        "ticket": [
+            {
+                "Name": "Kavita Singh",
+                "Type": "vip",
+                "Time": "2025-07-18 19:41:33"
+            }
+        ],
+        "rides_joined": [
+            "Roller Coaster"
+        ],
+        "attraction_visited": []
+    }
+}
